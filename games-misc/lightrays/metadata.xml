@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+    <maintainer type="person">
+        <email>tomaszjakubowski97@gmail.com</email>
+        <name>Tomasz Jakubowski</name>
+    </maintainer>
+  <upstream>
+    <bugs-to>https://github.com/Tomaszu97/lightrays/issues</bugs-to>
+    <remote-id type="github">Tomaszu97/lightrays</remote-id>
+  </upstream>
+  <longdescription>
+    This is a small project of mine demonstrating a single-core CPU rendering of
+    a 3D space. It utilizes a C file to define objects like spheres and
+    polygons. User can move around using keyboard to see how the world looks
+    like from different points of view and angles. Also there is a possibility
+    to change focal length and even make it negative. Please be aware that this
+    program is a toy and it is not meant to be used for purposes other than
+    educational or just for fun.
+  </longdescription>
+</pkgmetadata>
