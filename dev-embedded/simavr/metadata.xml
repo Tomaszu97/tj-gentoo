@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+    <maintainer type="person">
+        <email>buserror+git@gmail.com</email>
+        <name>Michel Pollet</name>
+    </maintainer>
+  <upstream>
+    <bugs-to>https://github.com/buserror/simavr/issues</bugs-to>
+    <remote-id type="github">buserror/simavr</remote-id>
+  </upstream>
+</pkgmetadata>
